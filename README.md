@@ -3,8 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sunilksamanta" target="blank"><img src="https://img.shields.io/twitter/follow/sunilksamanta?logo=twitter&style=for-the-badge" alt="sunilksamanta" /></a> </p>
 
-
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sunilksamanta)
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sunilksamanta"/>
 
 - 🔭 I’m currently working on [Calm API](https://github.com/sunilksamanta/calmapi)
 
